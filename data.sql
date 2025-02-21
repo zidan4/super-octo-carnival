@@ -6,7 +6,7 @@ CREATE TABLE Customers (
     Email VARCHAR(100),
     CreatedDate DATE
 );
-
+ 
 -- Insert sample data into Customers
 INSERT INTO Customers (CustomerID, FirstName, LastName, Email, CreatedDate)
 VALUES
